@@ -1,0 +1,9 @@
+Test Mode: False
+reOrg: False
+preprocess: True
+cellprofiler: False
+tracking: False
+Channels: []
+CPU_NUM: 0
+quiet: False
+ReOrg List: []
